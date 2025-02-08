@@ -1,4 +1,4 @@
-## He a hungry boi  
+## He don't got much to eat :(
 
 ![Snake animation](https://raw.githubusercontent.com/viktorashi/viktorashi/output/github-contribution-grid-snake-dark.svg)
 
